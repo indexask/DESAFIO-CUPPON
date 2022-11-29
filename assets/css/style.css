@@ -1,0 +1,56 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+p{
+    color: #707070;
+    padding: 0;
+    margin: 0;
+    
+}
+.cardbody{
+    text-align: right;
+}
+.card-text{
+    font-size: 13pt;
+    font-weight: 300;
+    
+}
+.card-title{
+    font-size: 20pt;
+    font-weight: 300;
+    color: #212529;
+}
+.price{
+    color: #707070;
+}
+.cards{
+    padding-left: 13px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.fas{
+    font-size: 14px;
+    padding-right: 6px;
+}
+.pr{
+    font-size: 20px;
+}
+.btn{
+    margin: 20px;
+}
+.logoblack{
+    width: 102px;
+ 
+}
+.copy{
+    padding-top: 10px;
+    font-weight: 300;
+}
+.text-center{
+    width: 100px;
+    padding-top: 20px;
+}
+.container{
+    padding-left: 9rem;
+}
